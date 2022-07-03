@@ -15,3 +15,9 @@
     5. Block Display
 
 ## Block **Repeating sequence** connected to Gain, at the same time connected to middle terminal of switch block, output of switch connected to Display, the upper terminal of the Switch connected to the Gain with value 10 and the under terminal of the Switch connected to the Gain with value 100.
+-----------
+
+3D PRINTED WITH MATLAB
+![](https://github.com/jwilliamsee/Matlab-basic/blob/main/imagen/Matlab3.PNG)
+![]()
+![]()
